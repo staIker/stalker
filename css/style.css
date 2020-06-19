@@ -2,7 +2,7 @@
 header, footer, container
 
 body, main, header, footer, container{
-  background: url("D:/Штуки/klimenko/End/img/Сталкер фон.PNG") no-repeat;
+  background: url("img/Сталкер фон.PNG") no-repeat;
   background-size: cover;
   background-position: center;
 }
